@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "seminar"
+    }
+  },
+  "defaultProject": "seminar",
+  "cli": {
+    "analytics": "ec20d6d3-e4a4-4f2d-9452-482fcd8b2aac"
+  }
 }
